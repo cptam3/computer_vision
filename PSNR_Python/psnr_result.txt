@@ -1,5 +1,0 @@
-The Peak-SNR value is 17.5432.
-
-The Peak-SNR value is 22.6491.
-
-The Peak-SNR value is 20.2326.
