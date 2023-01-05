@@ -1,1 +1,6 @@
+A marble maze controlled by hand movement.
 
+In handDetection folder, p5js is used to collect the data using hand movements detected. Data is then transmitted to the arduino to control the physical motors.
+In marble_maze, auduino file is provided. It receives data using serial communication and convert it as input of motor rotation.
+
+Demo video: https://youtube.com/shorts/GTSzqtFfXZE?feature=share
