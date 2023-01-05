@@ -1,1 +1,8 @@
+A image processing application using openframework & opencv.
 
+The c++ files are provided.
+
+If you want to play the application, you can create a openframework project with ofxCv, ofxOpenCv (self-install is required), and ofxGui extensions. Replaces the files in src folder with the c++ files provided.
+Then, you have to create a output folder in bin folder (.../_project_name/bin/output). Inside bin folder, you can put the raw images in data folder as inputs. You can get the output image in output folder.
+
+Demo video: https://youtu.be/-sK5xGFS9cQ
